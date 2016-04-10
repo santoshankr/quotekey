@@ -23,21 +23,8 @@ optional arguments:
 
 ```
 santosh@goodgodwhy:~/src/quotekey$ python quotekey.py
-Nope, trying again ...
-Nope, trying again ...
-Success! Writing private key to test.id_rsa
-Your authorized_keys entry is below:
-ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQG/X1eTM9IZpSI299fdjiuwvNE/sdg9JUZjnxmNPLju
-Jw46wWYWDdIZozD5GgfAMYxuhTQ1jFSWItT1ElipasLvb++BjXo3HNw64fxll73GIAvE3VDp/WsvDcpL
-26LSo3WYj++B33VPRn/HgUg8SCaAvqRw0RrB9V0IPS9s9K2WXXpgj+q3BKS9wVluYxSiFy7xD4BnMK0C
-OyShTYaxqHQC4M8+2IH6XwWB0Vp7x1e+T8wexGZhrpEcBN5pcDataAtRestEncryptionIsLikeIfSome
-oneToldYouTheirCarWasPerfectlySafeBecauseItDidnTHaveWheels/p5wcqDW/gSzur1OyeJpCfV
-Fc6QFa953vXIyjKv05H+epvJ/skS+h+eM0PiWO5chUssFC4JD3GsoEAvwwCTm182oC1Brocr+I3Wj8hXJ
-56Ad3ev/xwbj1HMdsf7fmzFZrIWLkn65yHhVPeXcrSVmnr3gmFaA8aF3xxNdkoTK7t6U8qRTIyJ8dPgYi
-5O1drop7haoV4QL7W0Uqqn1ZN0P10nc8P+y+d30ju1LHe2PcHf/SIsIjWrk6IEi4BRUTEgkF4mERsGXua
-6ONeE6BIoJ9v2g3Cssg04lkyFrVLIID3XveQLN/5Bu26vCjU7KeOx6Z7sB3DFrSAajN2Cix2qdYWhw==
-
 ```
+![Alt text](/quotekey.png?raw=true "Quotekey")
 
 ## Security
 
